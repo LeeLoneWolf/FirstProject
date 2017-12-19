@@ -28,5 +28,14 @@ public class ScannerTest{
 
 		}
 
+
+public void sum(double a, double b){
+
+		double results=a+b;
+
+
+		}
+
+
 }
 }
