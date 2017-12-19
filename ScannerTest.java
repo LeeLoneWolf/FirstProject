@@ -19,7 +19,14 @@ public class ScannerTest{
 	System.out.println("Salary after ETF and EPF is " + (s-(epf+etf)));
 	System.out.println("EPF IS "+epf);
 	System.out.println("ETF IS "+etf);
+	
+	public void strCompare() {
 
+		int a,b;
+		
+
+
+		}
 
 }
 }
