@@ -21,5 +21,14 @@ public class ScannerTest{
 	System.out.println("ETF IS "+etf);
 
 
+
+public void sum(double a, double b){
+
+		double results=a+b;
+
+
+		}
+
+
 }
 }
